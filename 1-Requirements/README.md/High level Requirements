@@ -1,0 +1,3 @@
+You can connect small servo motors directly to an Atmega328 to control the shaft position very precisely.                                                                                                                                    
+
+Because servo motors use feedback to determine the position of the shaft, you can control that position very precisely. As a result, servo motors are used to control the position of objects, rotate objects, move legs, arms or hands of robots, move sensors etc. with high precision. Servo motors are small in size, and because they have built-in circuitry to control their movement, they can be connected directly to an Atmega328.
